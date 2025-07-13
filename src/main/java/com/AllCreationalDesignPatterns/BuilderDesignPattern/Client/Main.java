@@ -1,10 +1,10 @@
-package com.BuilderDesignPattern.Client;
+package com.AllCreationalDesignPatterns.BuilderDesignPattern.Client;
 
 
-import com.BuilderDesignPattern.Solution.Director;
-import com.BuilderDesignPattern.Solution.EngineerStudentBuilder;
-import com.BuilderDesignPattern.Solution.MBAStudentBuilder;
-import com.BuilderDesignPattern.Solution.Student;
+import com.AllCreationalDesignPatterns.BuilderDesignPattern.Solution.Director;
+import com.AllCreationalDesignPatterns.BuilderDesignPattern.Solution.EngineerStudentBuilder;
+import com.AllCreationalDesignPatterns.BuilderDesignPattern.Solution.MBAStudentBuilder;
+import com.AllCreationalDesignPatterns.BuilderDesignPattern.Solution.Student;
 
 public class Main {
     public static void main(String[] args) {

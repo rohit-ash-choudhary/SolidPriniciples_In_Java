@@ -1,4 +1,4 @@
-package com.BuilderDesignPattern.Problem;
+package com.AllCreationalDesignPatterns.BuilderDesignPattern.Problem;
 
 public class Student {
 

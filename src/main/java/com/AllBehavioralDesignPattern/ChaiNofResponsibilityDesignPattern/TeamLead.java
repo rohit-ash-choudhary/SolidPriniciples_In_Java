@@ -1,4 +1,4 @@
-package com.ChaiNofResponsibilityDesignPattern;
+package com.AllBehavioralDesignPattern.ChaiNofResponsibilityDesignPattern;
 
 public class TeamLead extends LeaveHandler{
     @Override

@@ -1,4 +1,4 @@
-package com.ChaiNofResponsibilityDesignPattern;
+package com.AllBehavioralDesignPattern.ChaiNofResponsibilityDesignPattern;
 
 public class ClientTestinCode {
     public static void main(String[] args) {

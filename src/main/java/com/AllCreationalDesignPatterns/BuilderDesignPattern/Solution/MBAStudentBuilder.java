@@ -1,4 +1,4 @@
-package com.BuilderDesignPattern.Solution;
+package com.AllCreationalDesignPatterns.BuilderDesignPattern.Solution;
 
 public class MBAStudentBuilder extends StudentBuilder{
 
